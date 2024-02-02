@@ -1,0 +1,66 @@
+{
+    "name": "vtlabs/core",
+    "description": "Core packag for laravel. Auth and all other core stuff required for any project",
+    "type": "project",
+    "require": {        
+        "brotzka/laravel-dotenv-editor": "^2.0",
+        "berkayk/onesignal-laravel": "^1.0",
+        "beyondcode/laravel-comments": "^1.2.0",
+        "facebook/graph-sdk": "^5.7",
+        "google/apiclient": "^2.2",
+        "maatwebsite/excel": "^3.1",
+        "mpociot/laravel-apidoc-generator": "^4.0",
+        "laravel/framework": "^6.0",
+        "laravel/passport": "^8.0",
+        "laravel/helpers": "^1.1",
+        "laravel/socialite": "^4.0",
+        "laravel/tinker": "~2.0",
+        "laravel/telescope": "^3.2",
+        "laravelcollective/html": "^6.0",
+        "league/csv": "^9.6",
+        "spatie/laravel-permission": "^3.11",
+        "spatie/laravel-medialibrary": "^7.0.0",
+        "spatie/laravel-translatable": "^4.3",
+        "tucker-eric/eloquentfilter": "^2.3",
+        "depsimon/laravel-wallet": "^1.0",
+        "kreait/firebase-php": "5.11.0",
+        "kreait/firebase-tokens": "1.11.0",
+        "spatie/laravel-cors": "^1.6",
+        "overtrue/laravel-follow": "2.3.0",
+        "overtrue/laravel-like": "^2.0.1",
+        "ujjwalwahi/laravel-favorite": "^1.4",
+        "ujjwalwahi/rating": "^2.0",
+        "ujjwalwahi/plans": "^2.0",
+        "vtlabs/artisan": "@dev",
+        "vtlabs/appointments": "@dev",
+        "vtlabs/banner": "@dev",
+        "vtlabs/faq": "@dev",
+        "vtlabs/payments": "@dev",
+        "vtlabs/support": "@dev",
+        "vtlabs/category": "@dev",
+        "vtlabs/report": "@dev"
+    },
+    "authors": [
+        {
+            "name": "Ujjwal Wahi",
+            "email": "w.ujjwal@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vtlabs\\Core\\": "src"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vtlabs\\Core\\CoreServiceProvider",
+                "Vtlabs\\Core\\Providers\\EventServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}

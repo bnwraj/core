@@ -1,0 +1,17 @@
+{
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMDVlY2Q3ZjlkOWIxNTBhOGY4NjdkMzNmM2E5ZjM2MGZjOTA2MTBiZDJhZDQ3ODg5ZTU2M2IzNjNiMmY1OGM5NWZlYTBiNzZmNTFlMTJkNzYiLCJpYXQiOjE1OTAxODUwODEsIm5iZiI6MTU5MDE4NTA4MSwiZXhwIjoxNjIxNzIxMDgxLCJzdWIiOiI0Iiwic2NvcGVzIjpbXX0.P3rDECO0rjsF08w-yt6B39oEJfxhoO47yzSjP0xLsdGYLMeziQ0SrZhkVd8G-Z6Oaob5Yp0l_P9rUsGDcsBl5mS2ujjQxKV3SdQk-PRto4FdzCvP3x6Cetmm1yHpBK2KHfdafiYL1zigY-sM4dQpijUb8HoHIy0aff6SSQK6R9oH2uLCjN7xi4A8OrCA43ycD8rRdG6J1U84MuItergICRsxGK9iezcRLf3-hM56YZDUvsbCPBjLLA1D7iovjeg2fIr4fLhQLyjoS3g-juhIuERuuz_VVHyfS0a382cwnMfkIG24h_2sguv3es0PtBQTmRlnxY5nb6gLsPnzUhtqJLJ2qIL134Wl4CbNcKe0JaCTpNnh6TgYeESDPTbfiX3GFPZCplVKLZIzxND3ac5_OviVVY3hAOHM6Lshz-At7cEnBYXn8aqi3lmmriZKWD-7SwzV0Q-CCQ9RqMDdgs6sTpJM-ZTZ8IwKAt_dsLcvSPiIA3DiMEKz-xT8qf7ubj-qW08C2x1iw3ieuBk7gvYF1JhyYfGKt6pId3Hbh2xSQa9P1VW1GE7vRH-iDaPhaRnrloXP01OFP9wQU5vpME5iaKRPYCwpIKNmwc5uPjeHRg8ORcQGfz_mm1v7PGF09RTTa-AcDZbHOVdtYFGbX7pnbSSCkY17aANe-W-bbS7orGM",
+    "user": {
+        "id": 4,
+        "name": "Test Customer",
+        "email": "test@exampl.com",
+        "mobile_number": "+911312121213",
+        "mobile_verified": 0,
+        "active": 1,
+        "language": "en",
+        "notification": null,
+        "meta": null,
+        "remember_token": null,
+        "created_at": "2020-05-22 22:04:40",
+        "updated_at": "2020-05-22 22:04:40"
+    }
+}

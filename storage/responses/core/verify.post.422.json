@@ -1,0 +1,8 @@
+{
+    "message": "The given data was invalid.",
+    "errors": {
+        "mobile_number": [
+            "The selected mobile number is invalid."
+        ]
+    }
+}

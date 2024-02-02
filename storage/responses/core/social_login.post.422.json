@@ -1,0 +1,17 @@
+{
+    "message": "The given data was invalid.",
+    "errors": {
+        "platform": [
+            "The platform field is required."
+        ],
+        "token": [
+            "The token field is required."
+        ],
+        "os": [
+            "The os field is required."
+        ],
+        "role": [
+            "The role field is required."
+        ]
+    }
+}

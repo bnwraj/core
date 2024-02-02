@@ -1,0 +1,17 @@
+{
+    "message": "The given data was invalid.",
+    "errors": {
+        "name": [
+            "The name field is required."
+        ],
+        "email": [
+            "The email field is required."
+        ],
+        "mobile_number": [
+            "The mobile number has already been taken."
+        ],
+        "role": [
+            "The role field is required."
+        ]
+    }
+}
